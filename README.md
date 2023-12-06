@@ -11,6 +11,7 @@ _See the readme file in the main branch for updated instructions and information
 ## Instructions
 This repository has folders for each of the videos in the course. Each folder corresponds to a chapter and the sample file mentioned in the videos. 
 
+<B>Remember to get started, you click on the green "Code" button then click the plus + next to codeSpaces</b>
 
 ## Installing
 To use these exercise files, you must have the following installed:
